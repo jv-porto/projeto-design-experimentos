@@ -3,7 +3,7 @@
 
 <div><b>Objetivo:</b></div>
 
-<div>O objetivo deste projeto é utilizar os princípios de Design de Experimentos (DOE) para otimizar o desempenho de uma catapulta virtual, disponível em https://sigmazone.com/catapult/. O objetivo é encontrar as configurações ótimas da catapulta para atingir uma distância-alvo específica.</div>
+<div>O objetivo deste projeto é utilizar os princípios de Design de Experimentos (DOE) para otimizar o desempenho de uma catapulta virtual, disponível em <a href="https://sigmazone.com/catapult/">sigmazone.com</a>. O objetivo é encontrar as configurações ótimas da catapulta para atingir uma distância-alvo específica.</div>
 
 <div><br></div>
 
@@ -27,7 +27,7 @@
 
 <div><br></div>
 
-<div>5. <b>Análise dos Dados:</b>&nbsp;Depois de coletar os dados, você deve analisá-los. Utilize a biblioteca `pyDOE2` para realizar a análise de variância (ANOVA) e outras análises necessárias para identificar os fatores mais importantes.</div>
+<div>5. <b>Análise dos Dados:</b>&nbsp;Depois de coletar os dados, você deve analisá-los. Utilize a biblioteca pyDOE2 para realizar a análise de variância (ANOVA) e outras análises necessárias para identificar os fatores mais importantes.</div>
 
 <div><br></div>
 
